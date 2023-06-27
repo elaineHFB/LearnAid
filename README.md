@@ -1,6 +1,8 @@
 # LearnAid
 SWE Project Group 31
- 
+clone from: 
+https://github.com/thanushcurtis/LearnAid.git
+
 # installing dependencies
 install node before hand
 1. install express
