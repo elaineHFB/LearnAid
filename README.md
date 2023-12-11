@@ -1,5 +1,6 @@
 # LearnAid
 SWE Project Group 31
+ECS506
 clone from: 
 https://github.com/thanushcurtis/LearnAid.git
 
